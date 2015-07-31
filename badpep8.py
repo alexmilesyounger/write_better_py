@@ -12,7 +12,7 @@ def bar(*args):
 
 
 # Bad class name, bad spacing, bad indentation
-class treehouse:
+class Treehouse:
 	def one(self):
 		return 1
 	
