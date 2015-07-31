@@ -3,7 +3,7 @@ import random
 
 
 # multiple imports
-def fooBar(arg1, arg2, arg3, arg4):
+def foo_bar(arg1, arg2, arg3, arg4):
 	return arg1, arg2, arg3, arg4
 
 
