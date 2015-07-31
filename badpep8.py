@@ -1,3 +1,7 @@
+import sys
+import random
+
+
 # multiple imports
 def fooBar(arg1, arg2, arg3, arg4):
 	return arg1, arg2, arg3, arg4
@@ -14,8 +18,6 @@ class treehouse:
 	
 	def two(self):
 		return 2
-
-import sys, random
 
 
 # bad indentation and whitespace
