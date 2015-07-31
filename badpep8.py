@@ -37,4 +37,4 @@ fourteen = 14 # make fourteen equal to 12
 print(alpha)
 print(fourteen)
 
-print(treehouse().two())
+print(Treehouse().two())
