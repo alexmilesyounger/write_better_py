@@ -23,4 +23,11 @@ a, b, c, d = fooBar("a long string", "a longer string", "yet another long string
 
 
 # bad spacing
-one     = 1
+one      = 1
+three    = 3
+fourteen = 14 # make fourteen equal to 12
+
+print(a)
+print(fourteen)
+
+print(treehouse().two())
