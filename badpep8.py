@@ -21,7 +21,7 @@ class Treehouse:
 
 
 # bad indentation and whitespace
-alpha, beta, charlie, delta = fooBar(
+alpha, beta, charlie, delta = foo_bar(
 	"a long string", 
 	"a longer string", 
 	"yet another long string", 
