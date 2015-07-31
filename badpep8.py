@@ -21,7 +21,7 @@ class treehouse:
 
 
 # bad indentation and whitespace
-a, b, c, d = fooBar(
+alpha, beta, charlie, delta = fooBar(
 	"a long string", 
 	"a longer string", 
 	"yet another long string", 
@@ -34,7 +34,7 @@ one = 1
 three = 3
 fourteen = 14 # make fourteen equal to 12
 
-print(a)
+print(alpha)
 print(fourteen)
 
 print(treehouse().two())
