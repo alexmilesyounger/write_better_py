@@ -19,9 +19,7 @@ import sys, random
 
 
 # bad indentation and whitespace
-a,b,c,d=fooBar  ( "a long string","a longer string","yet another long string",
-	"and other crazy string"
-	 )
+a, b, c, d = fooBar("a long string", "a longer string", "yet another long string", "and other crazy string")
 
 
 # bad spacing
