@@ -23,10 +23,9 @@ alpha, beta, charlie, delta = foo_bar(
 	)
 
 
-# bad spacing
 one = 1
 three = 3
-fourteen = 14  # make fourteen equal to 12
+fourteen = 14 
 
 print(alpha)
 print(fourteen)
